@@ -1,0 +1,170 @@
+title,title_clean,author,language,publication_year,decade,sales_millions,wiki_genre,genre_raw,sales_text
+A Tale of Two Cities,a tale of two cities,Charles Dickens,English,1859,1850,200.0,historical fiction,Historical fiction,>200 million
+The Little Prince,the little prince,Antoine de Saint-Exupéry,French,1943,1940,200.0,fantasy,Fantasy,200 million
+The Alchemist,the alchemist,Paulo Coelho,Portuguese,1988,1980,150.0,fantasy,Fantasy,150 million
+Harry Potter and the Philosopher's Stone,harry potter and the philosophers stone,J. K. Rowling,English,1997,1990,120.0,fantasy,Fantasy,120 million
+And Then There Were None,and then there were none,Agatha Christie,English,1939,1930,100.0,mystery,Mystery,100 million
+Dream of the Red Chamber,dream of the red chamber,Cao Xueqin,Chinese,1791,1790,100.0,family saga,Family saga,100 million
+The Hobbit,the hobbit,J. R. R. Tolkien,English,1937,1930,100.0,fantasy,"Fantasy, children's fiction",100 million
+Alice's Adventures in Wonderland,alices adventures in wonderland,Lewis Carroll,English,1865,1860,100.0,fantasy,"Fantasy, absurdist fiction",100 million
+She: A History of Adventure,she a history of adventure,H. Rider Haggard,English,1887,1880,83.0,adventure,Adventure,83 million
+The Da Vinci Code,the da vinci code,Dan Brown,English,2003,2000,80.0,mystery thriller,Mystery thriller,80 million
+Harry Potter and the Chamber of Secrets,harry potter and the chamber of secrets,J. K. Rowling,English,1998,1990,77.0,fantasy,Fantasy,77 million
+The Catcher in the Rye,the catcher in the rye,J. D. Salinger,English,1951,1950,65.0,coming-of-age,Coming-of-age,65 million
+Sophie's World,sophies world,Jostein Gaarder,Norwegian,1991,1990,60.0,philosophical novel,"Philosophical novel, Young adult",60 million
+The Bridges of Madison County,the bridges of madison county,Robert James Waller,English,1992,1990,60.0,romance,Romance,60 million
+One Hundred Years of Solitude,one hundred years of solitude,Gabriel García Márquez,Spanish,1967,1960,50.0,magic realism,Magic realism,50 million
+Lolita,lolita,Vladimir Nabokov,English,1955,1950,50.0,novel,Novel,50 million
+Heidi,heidi,Johanna Spyri,German,1880,1880,50.0,children's fiction,Children's fiction,50 million
+The Common Sense Book of Baby and Child Care,the common sense book of baby and child care,Benjamin Spock,English,1946,1940,50.0,manual,Manual,50 million
+Anne of Green Gables,anne of green gables,Lucy Maud Montgomery,English,1908,1900,50.0,children's novel,Children's novel,50 million
+Black Beauty,black beauty,Anna Sewell,English,1877,1870,50.0,children's literature,Children's literature,50 million
+The Name of the Rose,the name of the rose,Umberto Eco,Italian,1980,1980,50.0,historical novel,"Historical novel, mystery",50 million
+The Eagle Has Landed,the eagle has landed,Jack Higgins,English,1975,1970,50.0,war,"War, thriller",50 million
+Watership Down,watership down,Richard Adams,English,1972,1970,50.0,children's fiction,Children's fiction,50 million
+The Hite Report,the hite report,Shere Hite,English,1976,1970,50.0,nonfiction,nonfiction,50 million
+Charlotte's Web,charlottes web,E. B. White,English,1952,1950,50.0,children's fiction,Children's fiction,50 million
+The Ginger Man,the ginger man,J. P. Donleavy,English,1955,1950,50.0,novel,Novel,50 million
+The Purpose Driven Life,the purpose driven life,Rick Warren,English,2002,2000,50.0,bible study,Bible study,50 million
+The Tale of Peter Rabbit,the tale of peter rabbit,Beatrix Potter,English,1902,1900,45.0,children's literature,Children's literature,45 million
+Jonathan Livingston Seagull,jonathan livingston seagull,Richard Bach,English,1970,1970,44.0,novella,"Novella, self-help",44 million
+The Very Hungry Caterpillar,the very hungry caterpillar,Eric Carle,English,1969,1960,43.0,children's literature,"Children's literature, picture book",43 million
+A Message to Garcia,a message to garcia,Elbert Hubbard,English,1899,1890,40.0,essay/literature,Essay/literature,40 million
+To Kill a Mockingbird,to kill a mockingbird,Harper Lee,English,1960,1960,40.0,southern gothic,"Southern Gothic, Bildungsroman",40 million
+Flowers in the Attic,flowers in the attic,V. C. Andrews,English,1979,1970,40.0,gothic horror,"Gothic horror, family saga",40 million
+Cosmos,cosmos,Carl Sagan,English,1980,1980,40.0,popular science,"Popular science, anthropology, astrophysics, cosmology, philosophy, history",40 million
+Angels & Demons,angels demons,Dan Brown,English,2000,2000,39.0,mystery-thriller,mystery-thriller,39 million
+How to Win Friends and Influence People,how to win friends and influence people,Dale Carnegie,English,1936,1930,37.0,self-help,Self-help,>37 million
+Alcoholics Anonymous,alcoholics anonymous,William Griffith Wilson,English,1939,1930,37.0,recovery,Recovery,>37 million
+Fear of Flying,fear of flying,Erica Jong,English,1973,1970,37.0,romantic novel,Romantic novel,37 million
+How the Steel Was Tempered,how the steel was tempered,Nikolai Ostrovsky,Russian,1932,1930,36.4,socialist realist novel,Socialist realist novel,36.4 million copies in USSR
+War and Peace,war and peace,Leo Tolstoy,Russian,1869,1860,36.0,historical novel,Historical novel,36 million copies in Russia
+The Adventures of Pinocchio,the adventures of pinocchio,Carlo Collodi,Italian,1881,1880,35.0,fantasy,"Fantasy, children's fiction",35 million
+The Diary of Anne Frank,the diary of anne frank,Anne Frank,Dutch,1947,1940,35.0,historical non-fiction,"Historical non-fiction, autobiography, memoir, bildungsroman / coming of age, Jewish literature",35 million
+Your Erroneous Zones,your erroneous zones,Wayne Dyer,English,1976,1970,35.0,self-help,Self-help,35 million
+The Thorn Birds,the thorn birds,Colleen McCullough,English,1977,1970,33.0,romantic family saga,Romantic family saga,33 million
+Kane and Abel,kane and abel,Jeffrey Archer,English,1979,1970,32.7,novel,Novel,32.7 million
+The Kite Runner,the kite runner,Khaled Hosseini,English,2003,2000,31.5,bildungsroman,"Bildungsroman, historical fiction",31.5 million
+Valley of the Dolls,valley of the dolls,Jacqueline Susann,English,1966,1960,31.0,novel,Novel,31 million
+The Great Gatsby,the great gatsby,F. Scott Fitzgerald,English,1925,1920,30.0,novel,"Novel, tragedy","30 million (""around"")"
+Gone with the Wind,gone with the wind,Margaret Mitchell,English,1936,1930,30.0,historical fiction,Historical fiction,30 million (est.)
+Rebecca,rebecca,Daphne du Maurier,English,1938,1930,30.0,gothic novel,Gothic novel,30 million (est.)
+The Revolt of Mamie Stover,the revolt of mamie stover,William Bradford Huie,English,1951,1950,30.0,fiction,Fiction,30 million
+The Girl with the Dragon Tattoo,the girl with the dragon tattoo,Stieg Larsson,Swedish,2005,2000,30.0,fiction,Fiction,30 million
+The Lost Symbol,the lost symbol,Dan Brown,English,2009,2000,30.0,fiction,Fiction,30 million
+The Hunger Games,the hunger games,Suzanne Collins,English,2008,2000,29.0,young adult fiction,"Young adult fiction, dystopia",29 million in US
+James and the Giant Peach,james and the giant peach,Roald Dahl,English,1961,1960,28.0,children's novel,Children's novel,28 million
+Ben-Hur: A Tale of the Christ,benhur a tale of the christ,Lew Wallace,English,1880,1880,26.0,novel,Novel,26 million in 1946
+The Young Guard,the young guard,Alexander Alexandrovich Fadeyev,Russian,1945,1940,26.0,young adult historical novel,Young adult historical novel,>26 million copies in USSR
+Who Moved My Cheese?,who moved my cheese,Spencer Johnson,English,1998,1990,28.0,self-help,"Self-help, motivational, business fable, psychology, leadership, parable",28 – 30 million
+A Brief History of Time,a brief history of time,Stephen Hawking,English,1988,1980,25.0,popular science,Popular science,25 million
+Paul et Virginie,paul et virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,1780,25.0,novel,Novel,25 million
+Lust for Life,lust for life,Irving Stone,English,1934,1930,25.0,biographical novel,Biographical novel,25 million
+The Wind in the Willows,the wind in the willows,Kenneth Grahame,English,1908,1900,25.0,children's literature,Children's literature,25 million
+The 7 Habits of Highly Effective People,the 7 habits of highly effective people,Stephen R. Covey,English,1989,1980,25.0,self-help,Self-help,25 million
+Totto-Chan: The Little Girl at the Window,tottochan the little girl at the window,Tetsuko Kuroyanagi,Japanese,1981,1980,25.0,autobiographical novel,Autobiographical novel,25 million
+Sapiens: A Brief History of Humankind,sapiens a brief history of humankind,Yuval Noah Harari,Hebrew,2011,2010,25.0,history,History,25 million
+Virgin Soil Upturned,virgin soil upturned,Mikhail Sholokhov,Russian,1935,1930,24.0,novel,Novel,>24 million copies in USSR
+The Celestine Prophecy,the celestine prophecy,James Redfield,English,1993,1990,23.0,new-age spiritual novel,New-age spiritual novel,23 million
+The Fault in Our Stars,the fault in our stars,John Green,English,2012,2010,23.0,young adult romantic novel,Young adult romantic novel,23 million
+The Girl on the Train,the girl on the train,Paula Hawkins,English,2015,2010,23.0,thriller,Thriller,23 million
+The Shack,the shack,William P. Young,English,2007,2000,22.5,novel,Novel,22.5 million
+Uncle Styopa,uncle styopa,Sergey Mikhalkov,Russian,1936,1930,21.0,children's literature,"Children's Literature, picture book",>21 million copies in USSR
+The Godfather,the godfather,Mario Puzo,English,1969,1960,21.0,crime novel,Crime novel,21 million
+Love Story,love story,Erich Segal,English,1970,1970,21.0,romance novel,Romance novel,21 million
+Catching Fire,catching fire,Suzanne Collins,English,2009,2000,21.0,young adult novel,"Young adult novel, adventure, dystopian, science fiction",21 million in US
+Mockingjay,mockingjay,Suzanne Collins,English,2010,2010,20.0,young adult novel,"Young Adult novel, adventure, war, science fiction, action thriller",20 million in US
+Kitchen,kitchen,Banana Yoshimoto,Japanese,1988,1980,20.0,japanese novel,Japanese novel,20 million
+Andromeda Nebula,andromeda nebula,Ivan Yefremov,Russian,1957,1950,20.0,science fiction novel,Science fiction novel,20 million
+Gone Girl,gone girl,Gillian Flynn,English,2012,2010,20.0,crime thriller novel,Crime thriller novel,20 million
+The Bermuda Triangle,the bermuda triangle,Charles Berlitz,English,1974,1970,20.0,,,20 million
+Things Fall Apart,things fall apart,Chinua Achebe,English,1958,1950,20.0,novel,Novel,20 million
+Wolf Totem,wolf totem,Jiang Rong,Chinese,2004,2000,20.0,semi-autobiographical novel,Semi-autobiographical novel,20 million
+The Happy Hooker: My Own Story,the happy hooker my own story,Xaviera Hollander,English,1971,1970,20.0,memoir,Memoir,20 million
+Jaws,jaws,Peter Benchley,English,1974,1970,20.0,thriller,Thriller,20 million
+Love You Forever,love you forever,Robert Munsch,English,1986,1980,20.0,children's literature,"Children's literature, picture book, fiction",20 million
+The Women's Room,the womens room,Marilyn French,English,1977,1970,20.0,feminist novel,Feminist novel,20 million
+What to Expect When You're Expecting,what to expect when youre expecting,Arlene Eisenberg,English,1984,1980,20.0,pregnancy guide,Pregnancy guide,20 million
+Adventures of Huckleberry Finn,adventures of huckleberry finn,Mark Twain,English,1885,1880,20.0,picaresque novel,"Picaresque novel, Bildungsroman, satire, Robinsonade",20 million
+"The Secret Diary of Adrian Mole, Aged 13¾",the secret diary of adrian mole aged 13¾,Sue Townsend,English,1982,1980,20.0,young adult novel,Young adult novel,20 million
+Pride and Prejudice,pride and prejudice,Jane Austen,English,1813,1810,20.0,classic regency novel,"Classic regency novel, romance",20 million
+Kon-Tiki: Across the Pacific in a Raft,kontiki across the pacific in a raft,Thor Heyerdahl,Norwegian,1950,1950,20.0,travel literature,Travel literature,20 million
+The Good Soldier Švejk,the good soldier švejk,Jaroslav Hašek,Czech,1923,1920,20.0,unfinished satirical dark comedy novel,Unfinished satirical dark comedy novel,20 million (printed)
+Where the Wild Things Are,where the wild things are,Maurice Sendak,English,1963,1960,20.0,children's picture book,Children's picture book,20 million
+The Power of Positive Thinking,the power of positive thinking,Norman Vincent Peale,English,1952,1950,20.0,self-help,Self-help,20 million
+The Secret,the secret,Rhonda Byrne,English,2006,2000,20.0,self-help,Self-help,20 million
+Dune,dune,Frank Herbert,English,1965,1960,20.0,science fiction novel,Science fiction novel,20 million
+Charlie and the Chocolate Factory,charlie and the chocolate factory,Roald Dahl,English,1964,1960,20.0,children's fantasy novel,Children's fantasy novel,20 million
+The Naked Ape,the naked ape,Desmond Morris,English,1968,1960,20.0,social science,"Social Science, Anthropology, Psychology",20 million
+Kokoro,kokoro,Natsume Sōseki,Japanese,1914,1910,20.0,novel,Novel,20 million (as of 1994)
+Where the Crawdads Sing,where the crawdads sing,Delia Owens,English,2018,2010,18.0,coming-of-age,"Coming-of-age, murder mystery",18 million
+Follow Your Heart,follow your heart,Susanna Tamaro,Italian,1994,1990,18.0,sentimental,"Sentimental, epistolary novel",18 million
+Matilda,matilda,Roald Dahl,English,1988,1980,17.0,children's literature,Children's literature,17 million
+The Book Thief,the book thief,Markus Zusak,English,2005,2000,16.0,young adult fiction,Young adult fiction,16 million
+The Horse Whisperer,the horse whisperer,Nicholas Evans,English,1995,1990,16.0,,,16 million
+Goodnight Moon,goodnight moon,Margaret Wise Brown,English,1947,1940,16.0,children's literature,Children's literature,16 million
+The Neverending Story,the neverending story,Michael Ende,German,1979,1970,16.0,children's literature,Children's literature,16 million
+All the Light We Cannot See,all the light we cannot see,Anthony Doerr,English,2014,2010,15.3,historical fiction,"Historical fiction, war novel",15.3 million
+Fifty Shades of Grey,fifty shades of grey,E. L. James,English,2011,2010,15.2,erotica,Erotica,15.2 million in the U.S.
+The Outsiders,the outsiders,S. E. Hinton,English,1967,1960,15.0,coming-of-age,Coming-of-age,15 million
+Guess How Much I Love You,guess how much i love you,Sam McBratney,English,1994,1990,15.0,children's literature,Children's literature,15 million
+Shōgun,shōgun,James Clavell,English,1975,1970,15.0,historical fiction,Historical fiction,15 million
+The Poky Little Puppy,the poky little puppy,Janette Sebring Lowrey,English,1942,1940,15.0,children's literature,Children's literature,15 million
+The Pillars of the Earth,the pillars of the earth,Ken Follett,English,1989,1980,15.0,historical fiction,Historical fiction,15 million
+Perfume,perfume,Patrick Süskind,German,1985,1980,15.0,,,15 million
+The Grapes of Wrath,the grapes of wrath,John Steinbeck,English,1939,1930,15.0,,,15 million
+The Shadow of the Wind,the shadow of the wind,Carlos Ruiz Zafón,Spanish,2001,2000,15.0,mystery,Mystery,15 million
+Interpreter of Maladies,interpreter of maladies,Jhumpa Lahiri,English,2000,2000,15.0,,,15 million
+Becoming,becoming,Michelle Obama,English,2018,2010,14.0,memoir,Memoir,14 million
+The Hitchhiker's Guide to the Galaxy,the hitchhikers guide to the galaxy,Douglas Adams,English,1979,1970,14.0,science fiction,Science fiction,14 million
+Tuesdays with Morrie,tuesdays with morrie,Mitch Albom,English,1997,1990,14.0,memoir,Memoir,14 million
+God's Little Acre,gods little acre,Erskine Caldwell,English,1933,1930,14.0,,,14 million
+A Wrinkle in Time,a wrinkle in time,Madeleine L'Engle,English,1962,1960,14.0,young adult,"Young adult, science fiction",14 million
+Long Walk to Freedom,long walk to freedom,Nelson Mandela,English,1994,1990,14.0,,,14 million
+The Old Man and the Sea,the old man and the sea,Ernest Hemingway,English,1952,1950,13.0,,,13 million
+Life After Life,life after life,Raymond Moody,English,1975,1970,13.0,,,13 million
+Momo,momo,Michael Ende,German,1973,1970,13.0,children's literature,Children's literature,13 million
+Peyton Place,peyton place,Grace Metalious,English,1956,1950,12.1,,,12.1 million
+The Giver,the giver,Lois Lowry,English,1993,1990,12.0,dystopian fiction,Dystopian fiction,12 million
+Me Before You,me before you,Jojo Moyes,English,2012,2010,12.0,,,12 million
+Norwegian Wood,norwegian wood,Haruki Murakami,Japanese,1987,1980,12.0,,,12 million
+The Plague,the plague,Albert Camus,French,1947,1940,12.0,,,12 million
+No Longer Human,no longer human,Osamu Dazai,Japanese,1948,1940,12.0,,,12 million
+Man's Search for Meaning,mans search for meaning,Viktor Frankl,German,1946,1940,12.0,,,12 million
+The Subtle Art of Not Giving a Fuck,the subtle art of not giving a fuck,Mark Manson,English,2016,2010,12.0,,,12 million
+The Divine Comedy,the divine comedy,Dante Alighieri,Italian,1304,1300,11.0,,,11–12 million(during the 20th century)
+Hairy Maclary from Donaldson's Dairy,hairy maclary from donaldsons dairy,Lynley Dodd,English,1983,1980,11.0,children's literature,"Children's literature, picture book",11 million
+The Prophet,the prophet,Kahlil Gibran,English,1923,1920,11.0,,,11 million
+The Boy in the Striped Pyjamas,the boy in the striped pyjamas,John Boyne,English,2006,2000,11.0,,,11 million
+The Exorcist,the exorcist,William Peter Blatty,English,1971,1970,11.0,horror,Horror,11 million
+The Gruffalo,the gruffalo,Julia Donaldson,English,1999,1990,10.5,children's literature,"Children's literature, picture book",10.5 million
+Fifty Shades Darker,fifty shades darker,E. L. James,English,2012,2010,10.4,erotica,Erotica,10.4 million in the U.S.
+Tobacco Road,tobacco road,Erskine Caldwell,English,1932,1930,10.0,,,10 million
+"Ronia, the Robber's Daughter",ronia the robbers daughter,Astrid Lindgren,Swedish,1981,1980,10.0,,,10 million
+The Cat in the Hat,the cat in the hat,Dr. Seuss,English,1957,1950,10.5,children's literature,"Children's literature, picture book",10.5 million
+Diana: Her True Story,diana her true story,Andrew Morton,English,1992,1990,10.0,biography,Biography,10 million
+The Help,the help,Kathryn Stockett,English,2009,2000,10.0,,,10 million
+Catch-22,catch22,Joseph Heller,English,1961,1960,10.0,,,10 million
+The Stranger,the stranger,Albert Camus,French,1942,1940,10.0,,,10 million
+Eye of the Needle,eye of the needle,Ken Follett,English,1978,1970,10.0,,,10 million
+The Lovely Bones,the lovely bones,Alice Sebold,English,2002,2000,10.0,,,10 million
+Wild Swans,wild swans,Jung Chang,English,1992,1990,10.0,,,10 million
+Santa Evita,santa evita,Tomás Eloy Martínez,Spanish,1995,1990,10.0,,,10 million
+Night,night,Elie Wiesel,Yiddish,1958,1950,10.0,,,10 million
+Confucius from the Heart,confucius from the heart,Yu Dan,Chinese,2006,2000,10.0,,,10 million
+The Total Woman,the total woman,Marabel Morgan,English,1974,1970,10.0,,,10 million
+Knowledge-value Revolution,knowledgevalue revolution,Taichi Sakaiya,Japanese,1985,1980,10.0,,,10 million
+Problems in China's Socialist Economy,problems in chinas socialist economy,Xue Muqiao,Chinese,1979,1970,10.0,,,10 million
+What Color Is Your Parachute?,what color is your parachute,Richard Nelson Bolles,English,1970,1970,10.0,,,10 million
+The Dukan Diet,the dukan diet,Pierre Dukan,French,2000,2000,10.0,,,10 million
+The Joy of Sex,the joy of sex,Alex Comfort,English,1972,1970,10.0,,,10 million
+The Gospel According to Peanuts,the gospel according to peanuts,Robert L. Short,English,1965,1960,10.0,,,10 million
+Life of Pi,life of pi,Yann Martel,English,2001,2000,10.0,,,10 million
+The Front Runner,the front runner,Patricia Nell Warren,English,1974,1970,10.0,,,10 million
+The Goal,the goal,Eliyahu M. Goldratt,English,1984,1980,10.0,,,10 million
+Fahrenheit 451,fahrenheit 451,Ray Bradbury,English,1953,1950,10.0,,,10 million
+Angela's Ashes,angelas ashes,Frank McCourt,English,1996,1990,10.0,,,10 million
+The Story of My Experiments with Truth,the story of my experiments with truth,Mohandas Karamchand Gandhi,Gujarati,1925,1920,10.0,,,10 million
+Bridget Jones's Diary,bridget joness diary,Helen Fielding,English,1996,1990,10.0,,,10 million (as of 2005)
+It Ends with Us,it ends with us,Colleen Hoover,English,2016,2010,10.0,romance,"Romance, Fiction",10 million
+My Brilliant Friend,my brilliant friend,Elena Ferrante,Italian,2011,2010,10.0,literary fiction,"Literary fiction, Autofiction",10 million
