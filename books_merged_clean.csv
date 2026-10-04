@@ -1,0 +1,56 @@
+title,author,year,language,api_genre,wiki_genre,pages,edition_count,ratings_average,ratings_count,sales_millions,decade
+Alice's Adventures in Wonderland,Lewis Carroll,1865,English,fantasy,fantasy,133.0,3547,4.0438595,228.0,100.0,1860
+The Wind in the Willows,Kenneth Grahame,1908,English,fantasy,children's literature,192.0,1346,4.035714,56.0,25.0,1900
+Anne of Green Gables,Lucy Maud Montgomery,1908,English,fantasy,children's novel,309.0,1299,4.2843137,102.0,50.0,1900
+The Hobbit,J. R. R. Tolkien,1937,English,fantasy,fantasy,310.0,482,4.29,500.0,100.0,1930
+Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,English,fantasy,fantasy,302.0,400,4.2210526,1045.0,120.0,1990
+Harry Potter and the Chamber of Secrets,J. K. Rowling,1998,English,fantasy,fantasy,339.0,306,4.175705,461.0,77.0,1990
+Charlie and the Chocolate Factory,Roald Dahl,1964,English,fantasy,children's fantasy novel,174.0,245,4.049296,284.0,20.0,1960
+Charlotte's Web,E. B. White,1952,English,fantasy,children's fiction,184.0,211,4.044289,429.0,50.0,1950
+Matilda,Roald Dahl,1988,English,fantasy,children's literature,240.0,184,4.3333335,282.0,17.0,1980
+James and the Giant Peach,Roald Dahl,1961,English,fantasy,children's novel,144.0,167,3.9343066,137.0,28.0,1960
+Dune,Frank Herbert,1965,English,fantasy,science fiction novel,608.0,155,4.3049326,446.0,20.0,1960
+The Hunger Games,Suzanne Collins,2008,English,fantasy,young adult fiction,397.0,143,4.124555,562.0,29.0,2000
+Where the Wild Things Are,Maurice Sendak,1963,English,fantasy,children's picture book,42.0,125,4.1284404,109.0,20.0,1960
+Catching Fire,Suzanne Collins,2009,English,fantasy,young adult novel,400.0,118,4.12,300.0,21.0,2000
+Watership Down,Richard Adams,1972,English,fantasy,children's fiction,478.0,108,4.149533,107.0,50.0,1970
+The Giver,Lois Lowry,1993,English,fantasy,dystopian fiction,200.0,106,4.031056,322.0,12.0,1990
+A Wrinkle in Time,Madeleine L'Engle,1962,English,fantasy,young adult,212.0,106,3.8757062,177.0,14.0,1960
+Fahrenheit 451,Ray Bradbury,1953,English,science fiction,unknown,188.0,264,3.9822617,451.0,10.0,1950
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,English,science fiction,science fiction,216.0,130,4.511236,178.0,14.0,1970
+Mockingjay,Suzanne Collins,2010,English,science fiction,young adult novel,424.0,98,3.8021584,278.0,20.0,2010
+And Then There Were None,Agatha Christie,1939,English,mystery,mystery,222.0,215,4.2543354,173.0,100.0,1930
+The Da Vinci Code,Dan Brown,2003,English,mystery,mystery thriller,489.0,203,3.9170985,193.0,80.0,2000
+The Lost Symbol,Dan Brown,2009,English,mystery,fiction,604.0,121,3.627451,102.0,30.0,2000
+The Godfather,Mario Puzo,1969,English,mystery,crime novel,450.0,109,4.2916665,48.0,21.0,1960
+Pride and Prejudice,Jane Austen,1813,English,romance,classic regency novel,351.0,4042,4.2132354,408.0,20.0,1810
+The Great Gatsby,F. Scott Fitzgerald,1925,English,romance,novel,185.0,1180,3.987805,246.0,30.0,1920
+Gone with the Wind,Margaret Mitchell,1936,English,romance,historical fiction,934.0,362,3.7115386,52.0,30.0,1930
+Lolita,Vladimir Nabokov,1955,English,romance,novel,336.0,229,3.9646018,113.0,50.0,1950
+Rebecca,Daphne du Maurier,1938,English,romance,gothic novel,386.0,200,4.1698112,53.0,30.0,1930
+Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,1788,French,romance,novel,184.0,142,3.4,5.0,25.0,1780
+Fifty Shades of Grey,E. L. James,2011,English,romance,erotica,544.0,141,3.925926,324.0,15.2,2010
+Guess How Much I Love You,Sam McBratney,1994,English,romance,children's literature,32.0,129,4.340659,91.0,15.0,1990
+Black Beauty,Anna Sewell,1877,English,romance,children's literature,229.0,107,4.304348,23.0,50.0,1870
+The Pillars of the Earth,Ken Follett,1989,English,thriller,historical fiction,1040.0,111,4.178082,73.0,15.0,1980
+The Exorcist,William Peter Blatty,1971,English,thriller,horror,400.0,77,4.16,25.0,11.0,1970
+Flowers in the Attic,V. C. Andrews,1979,English,thriller,gothic horror,411.0,73,4.0410957,73.0,40.0,1970
+The Eagle Has Landed,Jack Higgins,1975,English,thriller,war,382.0,72,4.357143,14.0,50.0,1970
+Jaws,Peter Benchley,1974,English,thriller,thriller,309.0,58,4.428571,28.0,20.0,1970
+Adventures of Huckleberry Finn,Mark Twain,1885,English,historical fiction,picaresque novel,346.0,2623,3.972332,253.0,20.0,1880
+A Tale of Two Cities,Charles Dickens,1859,English,historical fiction,historical fiction,388.0,2059,3.7718446,206.0,200.0,1850
+War and Peace,Leo Tolstoy,1869,Russian,historical fiction,historical novel,696.0,647,4.2325583,43.0,36.0,1860
+The Grapes of Wrath,John Steinbeck,1939,English,historical fiction,unknown,544.0,321,3.9363637,110.0,15.0,1930
+Heidi,Johanna Spyri,1880,German,historical fiction,children's fiction,284.0,180,3.9245284,53.0,50.0,1880
+Catch-22,Joseph Heller,1961,English,historical fiction,unknown,463.0,134,4.0961537,208.0,10.0,1960
+The Kite Runner,Khaled Hosseini,2003,English,historical fiction,bildungsroman,371.0,126,4.108108,148.0,31.5,2000
+The Book Thief,Markus Zusak,2005,English,historical fiction,young adult fiction,560.0,109,4.158621,145.0,16.0,2000
+The Boy in the Striped Pyjamas,John Boyne,2006,English,historical fiction,unknown,216.0,98,3.9210527,76.0,11.0,2000
+Things Fall Apart,Chinua Achebe,1958,English,historical fiction,novel,192.0,94,3.9263158,95.0,20.0,1950
+The Help,Kathryn Stockett,2009,English,historical fiction,unknown,479.0,73,4.25641,117.0,10.0,2000
+All the Light We Cannot See,Anthony Doerr,2014,English,historical fiction,historical fiction,544.0,72,4.2771087,83.0,15.3,2010
+Tuesdays with Morrie,Mitch Albom,1997,English,biography,memoir,199.0,104,3.8641975,81.0,14.0,1990
+Angela's Ashes,Frank McCourt,1996,English,biography,unknown,432.0,101,3.8333333,54.0,10.0,1990
+Wild Swans,Jung Chang,1992,English,biography,unknown,560.0,72,4.5,10.0,10.0,1990
+The Old Man and the Sea,Ernest Hemingway,1952,English,history,unknown,131.0,307,3.907563,238.0,13.0,1950
+The Very Hungry Caterpillar,Eric Carle,1969,English,children,children's literature,26.0,178,4.018868,106.0,43.0,1960
